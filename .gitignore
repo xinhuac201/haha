@@ -1,0 +1,9 @@
+.idea
+logs/luffy.log
+scripts
+*.bak
+*.dat
+*.dir
+*.pid
+*.pyc
+migrations/*
